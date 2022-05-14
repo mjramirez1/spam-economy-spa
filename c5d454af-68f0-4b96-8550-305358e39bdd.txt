@@ -1,0 +1,9 @@
+mjramirez1@gmail.com, cerv001@gmail.com
+ Prueba Final, indicadores 
+ <p>Hola, envío información:&nbsp;</p><p><br></p>
+            <p>El valor del dólar el día de hoy es: 867.93</p><br>
+            <p>El valor del euro el día de hoy es: 899.78</p><br>
+            <p>El valor del UF el día de hoy es: 32431.33</p><br>
+            <p>El valor del UTM el día de hoy es: 56762</p><br>
+            
+            
